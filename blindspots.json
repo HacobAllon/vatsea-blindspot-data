@@ -1,1 +1,31 @@
-
+{
+  "version": 1,
+  "generatedAt": "2026-09-26T18:33:16.818Z",
+  "source": "editor",
+  "regions": [
+    {
+      "name": "TASMAN-EXAMPLE",
+      "vertices": [
+        {
+          "lat": -40,
+          "lon": 155
+        },
+        {
+          "lat": -40,
+          "lon": 170
+        },
+        {
+          "lat": -45,
+          "lon": 170
+        },
+        {
+          "lat": -45,
+          "lon": 155
+        }
+      ],
+      "minFL": 0,
+      "maxFL": 60000,
+      "enabled": true
+    }
+  ]
+}
